@@ -87,8 +87,3 @@ The dataset comprises latitude and longitude values representing geographic loca
 
 ---
 
-## How to Run
-1. Clone this repository and navigate to the project folder.
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
